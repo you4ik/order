@@ -1,0 +1,8 @@
+{
+  "name": "order",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "4a619758"
+}
